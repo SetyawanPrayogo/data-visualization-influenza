@@ -4,7 +4,7 @@
     "width": "container",
     "height": 400,
     "data": {
-        "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/au_states.topojson",
+        "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/js/au_states.topojson",
         "format": {
             "type": "topojson",
             "feature": "au_states"
@@ -54,7 +54,7 @@
                     "lookup": "properties.STATE_NAME",
                     "from": {
                         "data": {
-                            "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/australia_total_case_dataset.csv"
+                            "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/data/australia_total_case_dataset.csv"
                         },
                         "key": "States",
                         "fields": [
@@ -111,7 +111,7 @@
                 "lookup": "properties.STATE_NAME",
                 "from": {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/australiaInfo.csv"
+                        "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/data/australiaInfo.csv"
                     },
                 "key": "States",
                 "fields": ["latitude", "longitude", "stateCode"]

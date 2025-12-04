@@ -4,7 +4,7 @@
     "height": 330,
     "title": "Total Specimen vs Positive Specimen",
     "data": {
-        "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/World_flu_dataset_(with_population_and_continent).csv"
+        "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/data/World_flu_dataset_(with_population_and_continent).csv"
     },
     "params": [
         {

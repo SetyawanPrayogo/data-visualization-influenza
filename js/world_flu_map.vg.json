@@ -12,7 +12,7 @@
         }
     },
     "data": {
-        "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/ne_110m_admin_0_countries.topojson",
+        "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/js/ne_110m_admin_0_countries.topojson",
         "format": {
             "type": "topojson",
             "feature": "ne_110m_admin_0_countries"
@@ -91,7 +91,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/oceans.topojson",
+                "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/js/oceans.topojson",
                 "format": {
                     "type": "topojson",
                     "feature": "oceans"
@@ -104,7 +104,7 @@
         },
         {
             "data": {
-                "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/js/ne_110m_graticules_30.topojson",
+                "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/js/ne_110m_graticules_30.topojson",
                 "format": {
                     "type": "topojson",
                     "feature": "ne_110m_graticules_30"
@@ -122,7 +122,7 @@
                     "lookup": "properties.NAME",
                     "from": {
                         "data": {
-                            "url": "https://raw.githubusercontent.com/spra0039/Data-Visualization-2/main/data/World_flu_dataset_(with_population_and_continent).csv"
+                            "url": "https://raw.githubusercontent.com/SetyawanPrayogo/data-visualization-influenza/refs/heads/main/data/World_flu_dataset_(with_population_and_continent).csv"
                         },
                         "key": "Country",
                         "fields": [
