@@ -1,0 +1,76 @@
+body {
+	background-color: #ebecf0;
+	width:1519px;
+}
+
+.page {
+	background-color: white;
+	border-radius: 10px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.vis-margin {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.vis-container {
+	width: 100%;
+}
+
+.pure-g {
+	margin-bottom: 10px;
+}
+
+.top-page {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 4%;
+	margin-bottom: 2%;
+}
+
+.bottom-page {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.intro-paragraph {
+	margin-right: 20%;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+}
+
+.sub-title {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+	font-size: 45px;
+	margin-top: 40px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.paragraph {
+	margin-bottom: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-size: 23px;
+	text-align: justify;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.vis-mark{
+	margin-right: 20%;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 25px;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 80px;
+	font-family: 'GFS Didot', serif;
+}
